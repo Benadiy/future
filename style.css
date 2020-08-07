@@ -1,0 +1,55 @@
+.bgf9{
+	background-color:#f9f9f9;
+}
+
+.gen_padding{
+	padding: 40px 100px 40px 100px;
+}
+
+a{
+	color: black;
+}
+
+.own_h{
+	font-size:50px;
+	padding-top: 80px;
+}
+.raz{
+	background: url(res/raz.png) 0px 0px;
+    background-repeat: repeat;
+	height: 6px;
+}
+
+
+.comment{
+	padding-bottom: 20px;
+}
+
+#name{
+    height: 45px;
+    border: 0px;
+	padding-left: 20px;
+}
+.width500{
+	width: 500px;
+}
+
+.width150{
+	width: 150px;
+}
+
+.border-radius5{
+	border-radius: 5px;
+}
+
+.border-solid2{
+	border:2px solid;
+}
+
+.textarea{
+	height: 200px;
+}
+
+.bg6xe{
+	background-color:#eeeeee;
+}
