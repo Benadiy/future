@@ -22,7 +22,7 @@ function sendAjaxForm(result_form, ajax_form, url) {
 			comment_tpl.find(".comment_name strong").html(result.name);
 			comment_tpl.find(".comment_content").html(result.comment);
 			comment_tpl.find(".comment_time small").html(result.time);
-			comment_tpl.find(".comment_data small").html(result.data);
+			comment_tpl.find(".comment_data small").html(result.date);
 			comment_tpl.appendTo("#comments");
 		},
 		error: function(response) {
